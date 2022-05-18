@@ -1,6 +1,6 @@
-# Hi there, I'm Danny - AKA [dannydev][website] 👋
+## Hi there, I'm Dan - AKA [dannydev][website] 👋
 
-## I'm a Recent Graduate, and Developer!
+### I'm a Recent Graduate, and Developer!
 - 🔭 I’m currently working on developing my personal website: to lauch soon!
 - 🌱 I’m currently learning the Go programming Language
 -  👯 I’m looking to collaborate on any project with other developers/ creators.
