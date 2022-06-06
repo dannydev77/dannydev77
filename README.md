@@ -7,7 +7,7 @@
 -   2022 Goals: Contribute more to open source projects 
 -   ✍ Get a job
 -  ⚡ Fun fact: The notion that I know nothing keeps me going to learn more!
--  💬 Also, This is my new repository. 
+-  💬 Also, This is my new repository. I deleted my previous account since I wanted to start afresh
 
 
 <!--
