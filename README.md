@@ -7,7 +7,7 @@ Hi 👋 My name is Dan
 Software developer and Designer
 -------------------------------
 
-I've been learning to code for the past five years. Basically started out with the common Web technologies (HTML,CSS,JS), then started learning other languages such as Python where I found passion in backend development. Recently I've been learning Go (golang) to add to my arsenal. Generally, I love coding, design, working with databases, and computer networking. Let's build the Technology for the future.
+I've been learning to code for the past five years. Basically started out with Core languages C/C++,  then the common Web technologies (HTML,CSS,JS), then started learning other languages such as Python where I found passion in backend development. Recently I've been learning Go (golang) to add to my arsenal. Generally, I love coding, design, working with databases, and computer networking. Let's build the Technology for the future.
 
 * 🌍  I'm based in Kiambu, Kenya
 * 🖥️  See my portfolio at [dannydev portfolio](http://dannydev.pythonanywhere.com/)
